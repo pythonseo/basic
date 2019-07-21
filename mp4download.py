@@ -4,7 +4,6 @@ from contextlib import closing
 import random
 headers={
     'user-agent':'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; en) Opera 9.50',
-    'Referer': 'http://www.porn1free.com/',
     'Range':'bytes=0-'
 }
 proxies=[{'http':'1.199.31.183:9999'}]
